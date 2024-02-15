@@ -1,0 +1,94 @@
+.GOYA{
+    background-color: lightpink;
+    text-align: center;
+    color: blue;
+    text-emphasis-style: Calibri;
+    
+}
+.GOYA2{
+    background-color: aliceblue;
+    text-align: center;
+    color: royalblue;
+}
+a:active{
+    background-color: yellow;
+    color: black;
+}
+
+img.primera {
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    background-color: lightsalmon;
+    color: blue;
+    position: relative;
+    
+}
+img.segunda {
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    background-color: lightseagreen;
+    color: red;
+    right: 800;
+    position: relative;
+    left: 30%;
+
+}
+
+img.tersera {
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    background-color: lightsalmon;
+    color: blue;
+    position: relative;
+    left: 70%;
+
+}
+
+footer{
+    background-color: yellow;
+    color: blue;
+    border: 1px solid;
+    text-align: center;
+}
+
+div.Millor {
+    background-color: lightsalmon;
+    color: blue;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
+div.Millor2 {
+    color: yellow;
+    background-color: lightgreen;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    left: 60%;
+    bottom: 200px;
+}
+
+.blue {
+    color: blue;
+}
+
+p6::before{
+    content: 1;
+}
+
+li::first-letter{
+    color: red;
+}
+
+
+.caja1 {
+    background-color: lightsalmon;
+    color: blue;
+    height: 600px;
+    width: 600px;
+    border: 1px solid;
+}
